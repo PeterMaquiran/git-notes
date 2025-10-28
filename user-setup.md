@@ -135,4 +135,3 @@ git push --force --tags origin main
 | **Local**  | `git config user.name "Peter"` | Current repository only |
 | **Check config** | `git config --list` | Shows effective settings |
 | **View file** | `cat ~/.gitconfig` | Global configuration file |
-
