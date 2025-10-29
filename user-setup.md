@@ -136,3 +136,5 @@ git push --force --tags origin main
 | **Check config** | `git config --list` | Shows effective settings |
 | **View file** | `cat ~/.gitconfig` | Global configuration file |
 
+
+
