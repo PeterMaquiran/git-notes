@@ -1,3 +1,4 @@
+
 # 🧾 Git User Configuration Guide
 
 This document explains how to set your Git username and email — both **globally** (for all repositories) and **locally** (for a specific repository).  
@@ -135,4 +136,3 @@ git push --force --tags origin main
 | **Local**  | `git config user.name "Peter"` | Current repository only |
 | **Check config** | `git config --list` | Shows effective settings |
 | **View file** | `cat ~/.gitconfig` | Global configuration file |
-
